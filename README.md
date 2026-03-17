@@ -1,15 +1,10 @@
-# Strike Zone Analysis
-
-## Data
+**Data** 
 
 - MLB Statcast data (2023-2025 seasons)
 - ~1.1 million called pitches (no swings)
 - Downloaded via `pybaseball` library
 
 `scripts/download_years.py` fetches the data, `scripts/create_heatmaps.py` generates some preliminary plots, and `scripts/strike_zone_analysis.ipynb` contains the full plotting script with some customization options.
-
-
-## Main Result
 
 **Strike probability contours by count** (`plots/strike_probability_all_contours.png`)
 
@@ -22,8 +17,6 @@ The plot shows the 50% strike probability contour for each count:
 - Green box = theoretical MLB strike zone
 
 The zoom panels on each edge show subtle differences in how umpires call the zone.
-
-## Zone Size by Count
 
 **Per-count zone size grid** (`plots/count_zone_size_grid.png`)
 

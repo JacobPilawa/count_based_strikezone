@@ -6,9 +6,9 @@
 
 `scripts/download_years.py` fetches the data, `scripts/create_heatmaps.py` generates some preliminary plots, and `scripts/strike_zone_analysis.ipynb` contains the full plotting script with some customization options.
 
-**Strike probability contours by count** (`plots/strike_probability_all_contours.png`)
+**Strike probability contours by count** (`plots/count_based_strikezone_analysis/strike_probability_all_contours.png`)
 
-![Main result](plots/count_based_strikezone_analysiscount_based_strikezone_analysis/strike_probability_all_contours.png)
+![Main result](plots/count_based_strikezone_analysis/count_based_strikezone_analysis/strike_probability_all_contours.png)
 
 The plot shows the 50% strike probability contour for each count:
 - Black line = all pitches combined

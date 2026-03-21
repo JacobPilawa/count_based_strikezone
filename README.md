@@ -8,7 +8,7 @@
 
 **Strike probability contours by count** (`plots/count_based_strikezone_analysis/strike_probability_all_contours.png`)
 
-![Main result](plots/count_based_strikezone_analysis/count_based_strikezone_analysis/strike_probability_all_contours.png)
+![Main result](plots/count_based_strikezone_analysis/strike_probability_all_contours.png)
 
 The plot shows the 50% strike probability contour for each count:
 - Black line = all pitches combined

@@ -8,7 +8,7 @@
 
 **Strike probability contours by count** (`plots/strike_probability_all_contours.png`)
 
-![Main result](plots/strike_probability_all_contours.png)
+![Main result](plots/count_based_strikezone_analysiscount_based_strikezone_analysis/strike_probability_all_contours.png)
 
 The plot shows the 50% strike probability contour for each count:
 - Black line = all pitches combined
@@ -18,9 +18,9 @@ The plot shows the 50% strike probability contour for each count:
 
 The zoom panels on each edge show subtle differences in how umpires call the zone.
 
-**Per-count zone size grid** (`plots/count_zone_size_grid.png`)
+**Per-count zone size grid** (`plots/count_based_strikezone_analysis/count_zone_size_grid.png`)
 
-![Zone size grid](plots/count_zone_size_grid.png)
+![Zone size grid](plots/count_based_strikezone_analysis/count_zone_size_grid.png)
 
 This grid shows the average distance from zone center to the 50% contour for each count, compared to the overall baseline.
 
